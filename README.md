@@ -18,7 +18,7 @@ Welcome to my GitHub account! I am a Computer Engineer at Toronto Metropolitan U
 
 - 💬 <ins>Ask me about: </ins> <br/> My in-school labs.
 
-- 📫 <ins>How to reach me: </ins> <br/> Email me at BMami@torontomu.ca or reach me at my LinkedIn: [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/brian-mami-695619262/) "LinkedIn").
+- 📫 <ins>How to reach me: </ins> <br/> Email me at BMami@torontomu.ca or reach me at my [LinkedIn](https://www.linkedin.com/in/brian-mami-695619262/ "LinkedIn").
 
 - 😄 <ins>Pronouns: </ins> <br/> He/Him.
 
