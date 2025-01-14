@@ -10,17 +10,15 @@ Welcome to my GitHub account! I am a Computer Engineer at Toronto Metropolitan U
 
 ---
 
-- 🔭 <ins>I’m currently working on: </ins> <br/> Building a cool new web app using React and Node.js.
+- 🔭 <ins>I’m currently working on: </ins> <br/> School labs, like building a CPU, and some personal projects.
 
-- 🌱 <ins>I’m currently learning: </ins> <br/> Machine learning and exploring TensorFlow.
+- 🌱 <ins>I’m currently learning: </ins> <br/> Computer Organization and OS', Control and Communication Systems, and Signals and Systems II.
 
-- 👯 <ins>I’m looking to collaborate on: </ins> <br/> Open-source projects related to web development.
+- 🤔 <ins>I’m looking for help with: </ins> <br/> Improving my skills in coding.
 
-- 🤔 <ins>I’m looking for help with: </ins> <br/> Improving my skills in data visualization.
+- 💬 <ins>Ask me about: </ins> <br/> My in-school labs.
 
-- 💬 <ins>Ask me about: </ins> <br/> Frontend development and hackathon tips.
-
-- 📫 <ins>How to reach me: </ins> <br/> Email me at brian.mami@example.com.
+- 📫 <ins>How to reach me: </ins> <br/> Email me at BMami@torontomu.ca or reach me at my LinkedIn: [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/brian-mami-695619262/) "LinkedIn").
 
 - 😄 <ins>Pronouns: </ins> <br/> He/Him.
 
