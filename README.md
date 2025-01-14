@@ -11,20 +11,20 @@ Welcome to my GitHub account! I am a Computer Engineer at Toronto Metropolitan U
 ---
 
 
-- 🔭 <ins>I’m currently working on: </ins>
-  a
+- 🔭 <ins>I’m currently working on: </ins> hhh
+  
 - 🌱 <ins>I’m currently learning: </ins>
-  a
+  
 - 👯 <ins>I’m looking to collaborate on: </ins>
-  a
+  
 - 🤔 <ins>I’m looking for help with: </ins>
-  a
+  
 - 💬 <ins>Ask me about: </ins>
-  a
+  
 - 📫 <ins>How to reach me: </ins>
-  a
+  
 - 😄 <ins>Pronouns: </ins>
-  a
+  
 - ⚡ <ins>Fun fact: </ins>
-  a
+  
 
