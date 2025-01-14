@@ -22,7 +22,7 @@ Welcome to my GitHub account! I am a Computer Engineer at Toronto Metropolitan U
 
 - 😄 <ins>Pronouns: </ins> <br/> He/Him.
 
-- ⚡ <ins>Fun fact: </ins> <br/> I can solve a Rubik's Cube in under a minute!
+- ⚡ <ins>Fun fact: </ins> <br/> I love going to the gym and playing sports!
 
   
 
