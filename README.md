@@ -10,7 +10,7 @@ Welcome to my GitHub account! I am a Computer Engineer at Toronto Metropolitan U
 
 ---
 
-- 🔭 <ins>I’m currently working on: </ins> <br/> School labs, like building a CPU, and some personal projects.
+- 🔭 <ins>I’m currently working on: </ins> <br/> building another CPU using VHDL.
 
 - 🌱 <ins>I’m currently learning: </ins> <br/> Computer Organization and OS', Control and Communication Systems, and Signals and Systems II.
 
